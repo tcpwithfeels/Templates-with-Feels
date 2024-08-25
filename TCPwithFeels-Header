@@ -1,0 +1,42 @@
+<#
+    #------------------------------------
+    #
+    #                       F  
+    #    (\__/)      T      E  
+    #    (o^.^)      C with E  
+    #    z(_(")(")   P      L  
+    #                       S
+    #
+    #------------------------------------
+
+    .SYNOPSIS
+    Brief description of what the script does.
+
+    .DESCRIPTION
+    Detailed description of the script's purpose and functionality.
+
+    .AUTHOR
+    tcpwithfeels 
+
+    .VERSION
+    1.0.0
+
+    .DATE
+    August 23, 2024
+
+    .NOTES
+    Additional notes about the script.
+
+    .EXAMPLE
+    Example of how to run the script:
+    .\YourScriptName.ps1
+
+    .INPUTS
+    List of input parameters and their descriptions.
+
+    .OUTPUTS
+    Description of what the script outputs.
+
+    .LINK
+    Any relevant links or references.
+#>
