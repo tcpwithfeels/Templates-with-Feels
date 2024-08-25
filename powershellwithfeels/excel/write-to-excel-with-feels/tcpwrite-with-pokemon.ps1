@@ -42,8 +42,6 @@
     Any relevant links or references.
 #>
 
-# Title
-$docTitle = "template-output"
 
 # Current Working Directory
 $currentDirectory = Get-Location
@@ -55,7 +53,6 @@ $pokemonData = Get-Content -Path $jsonFilePath | ConvertFrom-Json
 
 # Sort data by Number
 $pokemonData = $pokemonData | Sort-Object -Property Number
-
 
 # Init
 $excel = New-Object -ComObject Excel.Application
@@ -93,12 +90,16 @@ foreach ($pokemon in $pokemonData) {
     $worksheet.Cells.Item($row, 10) = $pokemon.Speed
     $row++
 }
+$outputDirectory = "OUTPUT-with-Feels"
+if (-not (Test-Path $outputDirectory)) {
+    New-Item -Path $outputDirectory -ItemType Directory
+}
 
 # Save the Excel file
-$excelFilePath = "$currentDirectory\OUTPUT-EXC_pokemon-with-feels.xlsx"
+$excelFilePath = "$currentDirectory\$outputDirectory\OUTPUT-EXC_pokemon-with-feels.xlsx"
 $workbook.SaveAs($excelFilePath)
 
-$csvFilePath = "$currentDirectory\OUTPUT-CSV_pokemon-with-feels.csv"
+$csvFilePath = "$currentDirectory\$outputDirectory\OUTPUT-CSV_pokemon-with-feels.csv"
 $pokemonData | Export-Csv -Path $csvFilePath -NoTypeInformation
 
 # Cleanup

@@ -1,0 +1,506 @@
+--------------------------------------------------------------------------------------------------------------                  
+                         F
+    (\__/)        T      E  
+    (o^.^)        C with E  
+    z(_(")(")     P      L  
+                         S
+-------------------------------------------------------
+-------------------------------------------------------
+Pokémon Information:
+This POKEMON is number 1
+Name is Bulbasaur with TYPES of Grass Poison
+"HP": "45",
+"Attack": "49",
+"Defense": "49",
+"SpecialAttack": "65",
+"SpecialDefense": "65",
+"Speed": "45"
+-------------------------------------------------------
+
+-------------------------------------------------------
+Pokémon Information:
+This POKEMON is number 2
+Name is Ivysaur with TYPES of Grass Poison
+"HP": "60",
+"Attack": "62",
+"Defense": "63",
+"SpecialAttack": "80",
+"SpecialDefense": "80",
+"Speed": "60"
+-------------------------------------------------------
+
+-------------------------------------------------------
+Pokémon Information:
+This POKEMON is number 3
+Name is Venusaur with TYPES of Grass Poison
+"HP": "80",
+"Attack": "82",
+"Defense": "83",
+"SpecialAttack": "100",
+"SpecialDefense": "100",
+"Speed": "80"
+-------------------------------------------------------
+
+-------------------------------------------------------
+Pokémon Information:
+This POKEMON is number 4
+Name is Charmander with TYPES of Fire 
+"HP": "39",
+"Attack": "52",
+"Defense": "43",
+"SpecialAttack": "60",
+"SpecialDefense": "50",
+"Speed": "65"
+-------------------------------------------------------
+
+-------------------------------------------------------
+Pokémon Information:
+This POKEMON is number 5
+Name is Charmeleon with TYPES of Fire 
+"HP": "58",
+"Attack": "64",
+"Defense": "58",
+"SpecialAttack": "80",
+"SpecialDefense": "65",
+"Speed": "80"
+-------------------------------------------------------
+
+-------------------------------------------------------
+Pokémon Information:
+This POKEMON is number 6
+Name is Charizard with TYPES of Fire Flying
+"HP": "78",
+"Attack": "84",
+"Defense": "78",
+"SpecialAttack": "109",
+"SpecialDefense": "85",
+"Speed": "100"
+-------------------------------------------------------
+
+-------------------------------------------------------
+Pokémon Information:
+This POKEMON is number 7
+Name is Squirtle with TYPES of Water 
+"HP": "44",
+"Attack": "48",
+"Defense": "65",
+"SpecialAttack": "50",
+"SpecialDefense": "64",
+"Speed": "43"
+-------------------------------------------------------
+
+-------------------------------------------------------
+Pokémon Information:
+This POKEMON is number 8
+Name is Wartortle with TYPES of Water 
+"HP": "59",
+"Attack": "63",
+"Defense": "80",
+"SpecialAttack": "65",
+"SpecialDefense": "80",
+"Speed": "58"
+-------------------------------------------------------
+
+-------------------------------------------------------
+Pokémon Information:
+This POKEMON is number 9
+Name is Blastoise with TYPES of Water 
+"HP": "79",
+"Attack": "83",
+"Defense": "100",
+"SpecialAttack": "85",
+"SpecialDefense": "105",
+"Speed": "78"
+-------------------------------------------------------
+
+-------------------------------------------------------
+Pokémon Information:
+This POKEMON is number 10
+Name is Caterpie with TYPES of Bug 
+"HP": "45",
+"Attack": "30",
+"Defense": "35",
+"SpecialAttack": "20",
+"SpecialDefense": "20",
+"Speed": "45"
+-------------------------------------------------------
+
+-------------------------------------------------------
+Pokémon Information:
+This POKEMON is number 11
+Name is Metapod with TYPES of Bug 
+"HP": "50",
+"Attack": "20",
+"Defense": "55",
+"SpecialAttack": "25",
+"SpecialDefense": "25",
+"Speed": "30"
+-------------------------------------------------------
+
+-------------------------------------------------------
+Pokémon Information:
+This POKEMON is number 12
+Name is Butterfree with TYPES of Bug Flying
+"HP": "60",
+"Attack": "45",
+"Defense": "50",
+"SpecialAttack": "90",
+"SpecialDefense": "80",
+"Speed": "70"
+-------------------------------------------------------
+
+-------------------------------------------------------
+Pokémon Information:
+This POKEMON is number 25
+Name is Pikachu with TYPES of Electric 
+"HP": "35",
+"Attack": "55",
+"Defense": "40",
+"SpecialAttack": "50",
+"SpecialDefense": "50",
+"Speed": "90"
+-------------------------------------------------------
+
+-------------------------------------------------------
+Pokémon Information:
+This POKEMON is number 26
+Name is Raichu with TYPES of Electric 
+"HP": "60",
+"Attack": "90",
+"Defense": "55",
+"SpecialAttack": "90",
+"SpecialDefense": "80",
+"Speed": "110"
+-------------------------------------------------------
+
+-------------------------------------------------------
+Pokémon Information:
+This POKEMON is number 27
+Name is Sandshrew with TYPES of Ground 
+"HP": "50",
+"Attack": "75",
+"Defense": "85",
+"SpecialAttack": "20",
+"SpecialDefense": "30",
+"Speed": "40"
+-------------------------------------------------------
+
+-------------------------------------------------------
+Pokémon Information:
+This POKEMON is number 28
+Name is Sandslash with TYPES of Ground 
+"HP": "75",
+"Attack": "100",
+"Defense": "110",
+"SpecialAttack": "45",
+"SpecialDefense": "55",
+"Speed": "65"
+-------------------------------------------------------
+
+-------------------------------------------------------
+Pokémon Information:
+This POKEMON is number 29
+Name is Nidoran♀ with TYPES of Poison 
+"HP": "55",
+"Attack": "47",
+"Defense": "52",
+"SpecialAttack": "40",
+"SpecialDefense": "50",
+"Speed": "41"
+-------------------------------------------------------
+
+-------------------------------------------------------
+Pokémon Information:
+This POKEMON is number 30
+Name is Nidorina with TYPES of Poison 
+"HP": "70",
+"Attack": "62",
+"Defense": "67",
+"SpecialAttack": "55",
+"SpecialDefense": "55",
+"Speed": "56"
+-------------------------------------------------------
+
+-------------------------------------------------------
+Pokémon Information:
+This POKEMON is number 31
+Name is Nidoqueen with TYPES of Poison Ground
+"HP": "90",
+"Attack": "92",
+"Defense": "87",
+"SpecialAttack": "75",
+"SpecialDefense": "85",
+"Speed": "76"
+-------------------------------------------------------
+
+-------------------------------------------------------
+Pokémon Information:
+This POKEMON is number 32
+Name is Nidoran♂ with TYPES of Poison 
+"HP": "46",
+"Attack": "57",
+"Defense": "40",
+"SpecialAttack": "40",
+"SpecialDefense": "40",
+"Speed": "50"
+-------------------------------------------------------
+
+-------------------------------------------------------
+Pokémon Information:
+This POKEMON is number 33
+Name is Nidorino with TYPES of Poison 
+"HP": "61",
+"Attack": "72",
+"Defense": "57",
+"SpecialAttack": "55",
+"SpecialDefense": "55",
+"Speed": "65"
+-------------------------------------------------------
+
+-------------------------------------------------------
+Pokémon Information:
+This POKEMON is number 34
+Name is Nidoking with TYPES of Poison Ground
+"HP": "81",
+"Attack": "102",
+"Defense": "77",
+"SpecialAttack": "85",
+"SpecialDefense": "75",
+"Speed": "85"
+-------------------------------------------------------
+
+-------------------------------------------------------
+Pokémon Information:
+This POKEMON is number 35
+Name is Clefairy with TYPES of Fairy 
+"HP": "70",
+"Attack": "45",
+"Defense": "48",
+"SpecialAttack": "60",
+"SpecialDefense": "65",
+"Speed": "35"
+-------------------------------------------------------
+
+-------------------------------------------------------
+Pokémon Information:
+This POKEMON is number 36
+Name is Clefable with TYPES of Fairy 
+"HP": "95",
+"Attack": "70",
+"Defense": "73",
+"SpecialAttack": "85",
+"SpecialDefense": "90",
+"Speed": "60"
+-------------------------------------------------------
+
+-------------------------------------------------------
+Pokémon Information:
+This POKEMON is number 37
+Name is Vulpix with TYPES of Fire 
+"HP": "38",
+"Attack": "41",
+"Defense": "40",
+"SpecialAttack": "50",
+"SpecialDefense": "65",
+"Speed": "65"
+-------------------------------------------------------
+
+-------------------------------------------------------
+Pokémon Information:
+This POKEMON is number 38
+Name is Ninetales with TYPES of Fire 
+"HP": "73",
+"Attack": "76",
+"Defense": "75",
+"SpecialAttack": "81",
+"SpecialDefense": "100",
+"Speed": "100"
+-------------------------------------------------------
+
+-------------------------------------------------------
+Pokémon Information:
+This POKEMON is number 39
+Name is Jigglypuff with TYPES of Normal Fairy
+"HP": "115",
+"Attack": "45",
+"Defense": "20",
+"SpecialAttack": "45",
+"SpecialDefense": "25",
+"Speed": "20"
+-------------------------------------------------------
+
+-------------------------------------------------------
+Pokémon Information:
+This POKEMON is number 40
+Name is Wigglytuff with TYPES of Normal Fairy
+"HP": "140",
+"Attack": "70",
+"Defense": "45",
+"SpecialAttack": "85",
+"SpecialDefense": "50",
+"Speed": "45"
+-------------------------------------------------------
+
+-------------------------------------------------------
+Pokémon Information:
+This POKEMON is number 360
+Name is Wynaut with TYPES of Psychic 
+"HP": "95",
+"Attack": "23",
+"Defense": "48",
+"SpecialAttack": "23",
+"SpecialDefense": "48",
+"Speed": "23"
+-------------------------------------------------------
+
+-------------------------------------------------------
+Pokémon Information:
+This POKEMON is number 361
+Name is Wobbuffet with TYPES of Psychic 
+"HP": "190",
+"Attack": "33",
+"Defense": "58",
+"SpecialAttack": "33",
+"SpecialDefense": "58",
+"Speed": "33"
+-------------------------------------------------------
+
+-------------------------------------------------------
+Pokémon Information:
+This POKEMON is number 120
+Name is Staryu with TYPES of Water 
+"HP": "30",
+"Attack": "45",
+"Defense": "55",
+"SpecialAttack": "70",
+"SpecialDefense": "55",
+"Speed": "85"
+-------------------------------------------------------
+
+-------------------------------------------------------
+Pokémon Information:
+This POKEMON is number 121
+Name is Starmie with TYPES of Water Psychic
+"HP": "60",
+"Attack": "75",
+"Defense": "85",
+"SpecialAttack": "100",
+"SpecialDefense": "85",
+"Speed": "115"
+-------------------------------------------------------
+
+-------------------------------------------------------
+Pokémon Information:
+This POKEMON is number 122
+Name is Mr. Mime with TYPES of Psychic Fairy
+"HP": "40",
+"Attack": "45",
+"Defense": "65",
+"SpecialAttack": "100",
+"SpecialDefense": "120",
+"Speed": "90"
+-------------------------------------------------------
+
+-------------------------------------------------------
+Pokémon Information:
+This POKEMON is number 123
+Name is Scyther with TYPES of Bug Flying
+"HP": "70",
+"Attack": "110",
+"Defense": "80",
+"SpecialAttack": "55",
+"SpecialDefense": "80",
+"Speed": "105"
+-------------------------------------------------------
+
+-------------------------------------------------------
+Pokémon Information:
+This POKEMON is number 124
+Name is Jynx with TYPES of Ice Psychic
+"HP": "65",
+"Attack": "50",
+"Defense": "35",
+"SpecialAttack": "115",
+"SpecialDefense": "95",
+"Speed": "95"
+-------------------------------------------------------
+
+-------------------------------------------------------
+Pokémon Information:
+This POKEMON is number 125
+Name is Electabuzz with TYPES of Electric 
+"HP": "65",
+"Attack": "83",
+"Defense": "57",
+"SpecialAttack": "95",
+"SpecialDefense": "85",
+"Speed": "105"
+-------------------------------------------------------
+
+-------------------------------------------------------
+Pokémon Information:
+This POKEMON is number 126
+Name is Magmar with TYPES of Fire 
+"HP": "65",
+"Attack": "95",
+"Defense": "57",
+"SpecialAttack": "100",
+"SpecialDefense": "85",
+"Speed": "93"
+-------------------------------------------------------
+
+-------------------------------------------------------
+Pokémon Information:
+This POKEMON is number 127
+Name is Pinsir with TYPES of Bug 
+"HP": "65",
+"Attack": "125",
+"Defense": "100",
+"SpecialAttack": "55",
+"SpecialDefense": "70",
+"Speed": "85"
+-------------------------------------------------------
+
+-------------------------------------------------------
+Pokémon Information:
+This POKEMON is number 128
+Name is Tauros with TYPES of Normal 
+"HP": "75",
+"Attack": "100",
+"Defense": "95",
+"SpecialAttack": "40",
+"SpecialDefense": "70",
+"Speed": "110"
+-------------------------------------------------------
+
+-------------------------------------------------------
+Pokémon Information:
+This POKEMON is number 129
+Name is Magikarp with TYPES of Water 
+"HP": "20",
+"Attack": "10",
+"Defense": "55",
+"SpecialAttack": "15",
+"SpecialDefense": "20",
+"Speed": "80"
+-------------------------------------------------------
+
+-------------------------------------------------------
+Pokémon Information:
+This POKEMON is number 130
+Name is Gyarados with TYPES of Water Flying
+"HP": "95",
+"Attack": "125",
+"Defense": "79",
+"SpecialAttack": "60",
+"SpecialDefense": "100",
+"Speed": "81"
+-------------------------------------------------------
+
+-------------------------------------------------------                     
+                         F
+    (\__/)        T      E  
+   \(o^.^)/       H with E  
+    z(_(")(")     X      L  
+                         S
+--------------------------------------------------------------------------------------------------------------

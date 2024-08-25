@@ -1,0 +1,383 @@
+--------------------------------------------------------------------------------------------------------------                  
+                         F
+    (\__/)        T      E  
+    (o^.^)        C with E  
+    z(_(")(")     P      L  
+                         S
+-------------------------------------------------------
+edit 1
+  set name Bulbasaur 
+  set type1 Grass 
+  set type2 Poison
+  set horsepower 45
+  set attackdefence 49,49
+  set specials 65,65
+  set speedygonzalez 45
+next
+edit 2
+  set name Ivysaur 
+  set type1 Grass 
+  set type2 Poison
+  set horsepower 60
+  set attackdefence 62,63
+  set specials 80,80
+  set speedygonzalez 60
+next
+edit 3
+  set name Venusaur 
+  set type1 Grass 
+  set type2 Poison
+  set horsepower 80
+  set attackdefence 82,83
+  set specials 100,100
+  set speedygonzalez 80
+next
+edit 4
+  set name Charmander 
+  set type1 Fire 
+  set type2 
+  set horsepower 39
+  set attackdefence 52,43
+  set specials 60,50
+  set speedygonzalez 65
+next
+edit 5
+  set name Charmeleon 
+  set type1 Fire 
+  set type2 
+  set horsepower 58
+  set attackdefence 64,58
+  set specials 80,65
+  set speedygonzalez 80
+next
+edit 6
+  set name Charizard 
+  set type1 Fire 
+  set type2 Flying
+  set horsepower 78
+  set attackdefence 84,78
+  set specials 109,85
+  set speedygonzalez 100
+next
+edit 7
+  set name Squirtle 
+  set type1 Water 
+  set type2 
+  set horsepower 44
+  set attackdefence 48,65
+  set specials 50,64
+  set speedygonzalez 43
+next
+edit 8
+  set name Wartortle 
+  set type1 Water 
+  set type2 
+  set horsepower 59
+  set attackdefence 63,80
+  set specials 65,80
+  set speedygonzalez 58
+next
+edit 9
+  set name Blastoise 
+  set type1 Water 
+  set type2 
+  set horsepower 79
+  set attackdefence 83,100
+  set specials 85,105
+  set speedygonzalez 78
+next
+edit 10
+  set name Caterpie 
+  set type1 Bug 
+  set type2 
+  set horsepower 45
+  set attackdefence 30,35
+  set specials 20,20
+  set speedygonzalez 45
+next
+edit 11
+  set name Metapod 
+  set type1 Bug 
+  set type2 
+  set horsepower 50
+  set attackdefence 20,55
+  set specials 25,25
+  set speedygonzalez 30
+next
+edit 12
+  set name Butterfree 
+  set type1 Bug 
+  set type2 Flying
+  set horsepower 60
+  set attackdefence 45,50
+  set specials 90,80
+  set speedygonzalez 70
+next
+edit 25
+  set name Pikachu 
+  set type1 Electric 
+  set type2 
+  set horsepower 35
+  set attackdefence 55,40
+  set specials 50,50
+  set speedygonzalez 90
+next
+edit 26
+  set name Raichu 
+  set type1 Electric 
+  set type2 
+  set horsepower 60
+  set attackdefence 90,55
+  set specials 90,80
+  set speedygonzalez 110
+next
+edit 27
+  set name Sandshrew 
+  set type1 Ground 
+  set type2 
+  set horsepower 50
+  set attackdefence 75,85
+  set specials 20,30
+  set speedygonzalez 40
+next
+edit 28
+  set name Sandslash 
+  set type1 Ground 
+  set type2 
+  set horsepower 75
+  set attackdefence 100,110
+  set specials 45,55
+  set speedygonzalez 65
+next
+edit 29
+  set name Nidoran♀ 
+  set type1 Poison 
+  set type2 
+  set horsepower 55
+  set attackdefence 47,52
+  set specials 40,50
+  set speedygonzalez 41
+next
+edit 30
+  set name Nidorina 
+  set type1 Poison 
+  set type2 
+  set horsepower 70
+  set attackdefence 62,67
+  set specials 55,55
+  set speedygonzalez 56
+next
+edit 31
+  set name Nidoqueen 
+  set type1 Poison 
+  set type2 Ground
+  set horsepower 90
+  set attackdefence 92,87
+  set specials 75,85
+  set speedygonzalez 76
+next
+edit 32
+  set name Nidoran♂ 
+  set type1 Poison 
+  set type2 
+  set horsepower 46
+  set attackdefence 57,40
+  set specials 40,40
+  set speedygonzalez 50
+next
+edit 33
+  set name Nidorino 
+  set type1 Poison 
+  set type2 
+  set horsepower 61
+  set attackdefence 72,57
+  set specials 55,55
+  set speedygonzalez 65
+next
+edit 34
+  set name Nidoking 
+  set type1 Poison 
+  set type2 Ground
+  set horsepower 81
+  set attackdefence 102,77
+  set specials 85,75
+  set speedygonzalez 85
+next
+edit 35
+  set name Clefairy 
+  set type1 Fairy 
+  set type2 
+  set horsepower 70
+  set attackdefence 45,48
+  set specials 60,65
+  set speedygonzalez 35
+next
+edit 36
+  set name Clefable 
+  set type1 Fairy 
+  set type2 
+  set horsepower 95
+  set attackdefence 70,73
+  set specials 85,90
+  set speedygonzalez 60
+next
+edit 37
+  set name Vulpix 
+  set type1 Fire 
+  set type2 
+  set horsepower 38
+  set attackdefence 41,40
+  set specials 50,65
+  set speedygonzalez 65
+next
+edit 38
+  set name Ninetales 
+  set type1 Fire 
+  set type2 
+  set horsepower 73
+  set attackdefence 76,75
+  set specials 81,100
+  set speedygonzalez 100
+next
+edit 39
+  set name Jigglypuff 
+  set type1 Normal 
+  set type2 Fairy
+  set horsepower 115
+  set attackdefence 45,20
+  set specials 45,25
+  set speedygonzalez 20
+next
+edit 40
+  set name Wigglytuff 
+  set type1 Normal 
+  set type2 Fairy
+  set horsepower 140
+  set attackdefence 70,45
+  set specials 85,50
+  set speedygonzalez 45
+next
+edit 360
+  set name Wynaut 
+  set type1 Psychic 
+  set type2 
+  set horsepower 95
+  set attackdefence 23,48
+  set specials 23,48
+  set speedygonzalez 23
+next
+edit 361
+  set name Wobbuffet 
+  set type1 Psychic 
+  set type2 
+  set horsepower 190
+  set attackdefence 33,58
+  set specials 33,58
+  set speedygonzalez 33
+next
+edit 120
+  set name Staryu 
+  set type1 Water 
+  set type2 
+  set horsepower 30
+  set attackdefence 45,55
+  set specials 70,55
+  set speedygonzalez 85
+next
+edit 121
+  set name Starmie 
+  set type1 Water 
+  set type2 Psychic
+  set horsepower 60
+  set attackdefence 75,85
+  set specials 100,85
+  set speedygonzalez 115
+next
+edit 122
+  set name Mr. Mime 
+  set type1 Psychic 
+  set type2 Fairy
+  set horsepower 40
+  set attackdefence 45,65
+  set specials 100,120
+  set speedygonzalez 90
+next
+edit 123
+  set name Scyther 
+  set type1 Bug 
+  set type2 Flying
+  set horsepower 70
+  set attackdefence 110,80
+  set specials 55,80
+  set speedygonzalez 105
+next
+edit 124
+  set name Jynx 
+  set type1 Ice 
+  set type2 Psychic
+  set horsepower 65
+  set attackdefence 50,35
+  set specials 115,95
+  set speedygonzalez 95
+next
+edit 125
+  set name Electabuzz 
+  set type1 Electric 
+  set type2 
+  set horsepower 65
+  set attackdefence 83,57
+  set specials 95,85
+  set speedygonzalez 105
+next
+edit 126
+  set name Magmar 
+  set type1 Fire 
+  set type2 
+  set horsepower 65
+  set attackdefence 95,57
+  set specials 100,85
+  set speedygonzalez 93
+next
+edit 127
+  set name Pinsir 
+  set type1 Bug 
+  set type2 
+  set horsepower 65
+  set attackdefence 125,100
+  set specials 55,70
+  set speedygonzalez 85
+next
+edit 128
+  set name Tauros 
+  set type1 Normal 
+  set type2 
+  set horsepower 75
+  set attackdefence 100,95
+  set specials 40,70
+  set speedygonzalez 110
+next
+edit 129
+  set name Magikarp 
+  set type1 Water 
+  set type2 
+  set horsepower 20
+  set attackdefence 10,55
+  set specials 15,20
+  set speedygonzalez 80
+next
+edit 130
+  set name Gyarados 
+  set type1 Water 
+  set type2 Flying
+  set horsepower 95
+  set attackdefence 125,79
+  set specials 60,100
+  set speedygonzalez 81
+next
+-------------------------------------------------------                     
+                         F
+    (\__/)        T      E  
+   \(o^.^)/       H with E  
+    z(_(")(")     X      L  
+                         S
+--------------------------------------------------------------------------------------------------------------
