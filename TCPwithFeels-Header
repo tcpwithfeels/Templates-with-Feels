@@ -40,3 +40,10 @@
     .LINK
     Any relevant links or references.
 #>
+
+# Title
+$docTitle = "template-output"
+
+# Current Working Directory
+$currentDirectory = Get-Location
+Write-Output $currentDirectory
