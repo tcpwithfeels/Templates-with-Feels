@@ -1,5 +1,5 @@
 <#
-    #------------------------------------
+    #---------------------------
     #
     #                       F  
     #    (\__/)      T      E  
@@ -7,16 +7,16 @@
     #    z(_(")(")   P      L  
     #                       S
     #
-    #------------------------------------
+    #---------------------------
 
     .SYNOPSIS
-    Brief description of what the script does.
+    This script asks input about your name, age and birthdate and outputs the day of the week you were born.
 
     .DESCRIPTION
-    Detailed description of the script's purpose and functionality.
+    This is a sample Powershell script that is used to help with starting off with Jinja Templates.
 
     .AUTHOR
-    tcpwithfeels 
+    tcpwithfeels
 
     .VERSION
     1.0.0
@@ -25,23 +25,21 @@
     August 23, 2024
 
     .NOTES
-    Additional notes about the script.
+    Additional notes: N/A
 
     .EXAMPLE
     Example of how to run the script:
-    .\YourScriptName.ps1
+    .\<scriptName>.ps1
 
     .INPUTS
-    List of input parameters and their descriptions.
+    Name, Age and Birthdate
 
     .OUTPUTS
-    Description of what the script outputs.
+    Outputs the day of the week you were born
 
     .LINK
-    Any relevant links or references.
+    www.github.com/tcpwithfeels
 #>
-
-
 
 # Title
 $docTitle = "template-output"
@@ -94,19 +92,11 @@ function Get-UserInfo {
     }
 }
 
-# Template
-$template = @"
+# Define the path to the template file
+$templatePath = "$currentDirectory\jinja2_template.j2"
 
-Hello, {{ name }}! Your birthdate is {{ birthdate }}
-This means you are {{ age }} years old
-
-
-FUN FACT: You were born on a {{ dayOfWeek }}
-
-Welcome to the {{ project_name }} Templates.
-Feel free to explore.
-
-"@
+#template
+$j2template = Get-Content -Path $templatePath -Raw
 
 $data = Get-UserInfo
 $data["project_name"] = "TCPwithFEELS"
@@ -114,17 +104,17 @@ $data["project_name"] = "TCPwithFEELS"
 # Function
 function Render-Template {
     param (
-        [string]$template,
+        [string]$j2templateFile,
         [hashtable]$data
     )
     
     # Replace
     foreach ($key in $data.Keys) {
         $placeholder = "{{ $key }}"
-        $template = $template -replace [regex]::Escape($placeholder), $data[$key]
+        $j2template  = $j2template  -replace [regex]::Escape($placeholder), $data[$key]
     }
     
-    return $template
+    return $j2template
 }
 
 # Render
